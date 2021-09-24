@@ -16,7 +16,7 @@ I have my own Github website [Linked Here](https://vrwu.github.io/)
 
 [Here is a secret file](extra.md) \
 [Here is a picture of Wooper](images/wooper.png) \
-![Here is another picture of Wooper](https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png) \
+![Here is another picture of Wooper](https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png)
 
 My Top Hobbies include:
 1. Table Tennis
