@@ -1,8 +1,8 @@
 # Hello!
 ## My name is Vivian
 
-I am a:
-> Programmer
+_I am a:_
+> _Programmer_
 
 My favorite movie is Spirited Away!
 [Here is a picture of Sprited Away](images/spirited%20away1.jpg)
